@@ -25,7 +25,10 @@ Skill 3 (WeaponUpgrade): E
 * Levels added.
   * Enemies gets stronger when level up. (spawn rate, movement speed)
   * New enemies appear when level up.
-  * 
+    * Level 1-2: Astroids,Ships
+    * Level 3-4: Astroids, Ships, Smart Ships
+    * Level 5-6: Astroids, Ships, Smart Ships, Warships
+    * Level 7+ : Astroids, Ships, Smart Ships, Warships, Leader Warships
 * 2 new enemies added.
   * Warship, Leader Warship added.
   
