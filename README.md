@@ -42,6 +42,6 @@ Skill 3 (WeaponUpgrade): E
     * Weapon Upgrade: Spend 3000 score to upgrade your weapon
       * 3 weapon is available
   
-#What does the game look like?
+# What does the game look like?
 
-[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](https://img.youtube.com/vi/T-QDPJprvgGys/maxresdefault.jpg)](https://youtu.be/QDPJprvgGys)
