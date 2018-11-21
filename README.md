@@ -29,8 +29,10 @@ Skill 3 (WeaponUpgrade): E
     * Level 3-4: Astroids, Ships, Smart Ships
     * Level 5-6: Astroids, Ships, Smart Ships, Warships
     * Level 7+ : Astroids, Ships, Smart Ships, Warships, Leader Warships
+    
 * 2 new enemies added
   * Warship, Leader Warship
+  
 * 3 new skills added
   * Skill 1
     * BulletRain: Spend 1000 score to rain bullets
