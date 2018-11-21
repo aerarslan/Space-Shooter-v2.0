@@ -22,3 +22,11 @@ Skill 3 (WeaponUpgrade): E
 
 ## What is new?
 
+* Levels added.
+  * Enemies gets stronger when level up. (spawn rate, movement speed)
+  * New enemies appear when level up.
+  * 
+* 2 new enemies added.
+  * Warship, Leader Warship added.
+  
+  
