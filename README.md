@@ -44,4 +44,5 @@ Skill 3 (WeaponUpgrade): E
   
 # What does the game look like?
 
+## Video: 
 [![Watch the video](https://i.imgur.com/IB9Siyx.jpg)](https://youtu.be/QDPJprvgGys)
